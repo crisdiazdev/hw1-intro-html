@@ -10,4 +10,4 @@
 -how to restructure lists and the bullet points 
 -how to resize images using width
 -how to host a project on github pages
-
+-how to add bullets  (-) and headers (##) in readme file using Github editor
