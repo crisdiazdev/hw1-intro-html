@@ -11,3 +11,7 @@
 - how to resize images using width
 - how to host a project on github pages
 - how to add bullets  (-) and headers (##) in readme file using Github editor
+
+## Links
+- **Repo:** [GitHub Repository](https://github.com/crisdiazdev/hw1-intro-html)  
+- **Live Site:** [GitHub Pages](https://crisdiazdev.github.io/hw1-intro-html/)
