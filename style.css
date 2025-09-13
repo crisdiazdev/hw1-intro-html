@@ -17,6 +17,8 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
+  text-align: center;  
+  background-color: bisque;
 }
 
 /* images and videos max out at full width */
@@ -27,8 +29,16 @@ video {
 }
 
 p {
-  color: red;
+  color: black;
+}
+h4{
+  margin-bottom: 10px;
 }
 
+ul {
+  list-style-position: inside;
+  display: inline-block;
+  text-align: left;
+  margin-top: 3px;
+}
 
-p {}
